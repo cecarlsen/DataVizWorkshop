@@ -5,6 +5,8 @@ Taught by [Carl Emil Carlsen](http://cec.dk) at the [The Royal Danish Academy of
 *September 17th – October 7th, 2020.*  
 *10 in-class days, 2 self-study days and 1 presentation day.*
 
+**The content of this repo will be updated throughout the workshop.**
+
 
 <div style="page-break-after: always;"></div>
 
