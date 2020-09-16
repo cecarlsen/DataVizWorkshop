@@ -1,4 +1,4 @@
-# Assignment - Setting up the environment
+# Assignment - Setup
 
 ### Unity
 1. Create a [UnityID](https://id.unity.com/account/new)

@@ -1,15 +1,13 @@
 # Homework
 
 
-### Research existing work
+### Upload 
+Upload your Personal Data project by pushing it to Github, so that we can have a look at it tomorrow.
 
-1. Look at existing work in the field of data visualisation. [Here](../References.md) are some places to start.
-1. Find one project that strikes you as interesting. Compose a slack post with an image, a link and a text describing:
-	* Why it inspires you
-	* Who it is for
-	* How you think they built it
-	* What its goal seems to be
+
+### Read
+[Computational Information Design](https://benfry.com/phd/dissertation-050312b-acrobat.pdf), Ben Fry, PhD Thesis, 2004. P. 17-31 (15 page total).
+
 
 ### Extras
-
-* Get familiar with [Amanda Cox](https://vimeo.com/29391942), the queen of data visualisation.
+* If you find time, lean back and get familiar with Amanda Cox (queen of data visualisations) in [this entertaining talk](https://vimeo.com/29391942), .
