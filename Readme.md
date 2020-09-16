@@ -8,7 +8,6 @@ Taught by [Carl Emil Carlsen](http://cec.dk) at the [The Royal Danish Academy of
 
 <div style="page-break-after: always;"></div>
 
-
 ![Splash](MarkdownAssets/Splash.png)
 
 ## Introdution
