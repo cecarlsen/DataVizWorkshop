@@ -6,13 +6,15 @@
 Welcome round. Topic introduction. Workshop introduction. Slides [here](Resources/01_Workshop_Introduction.pdf).
 
 ### [Assignment] Setup
-[Instructions](Assignment_Setup.md)
+[Instructions](Assignment_Setup.md).
 
 ### [Lecture] Process
 Introducing the data visualisation process. Slides [here](Resources/02_Data_Vis_Process.pdf).
 
 ### [Example] Personal Data
 Together, we build up an example from scratch, going through a full data visualistion process from acquisition to interaction. We will switch between live coding and independent work in multiple iterations.
+
+Download Live coding example from the class [here](Resources/PersonalDataLiveCoding.unitypackage).
 
 ### [Assignment] Personal Data continued
 [Assignment instructions](Assignment_Personal_Data_Continued.md).
