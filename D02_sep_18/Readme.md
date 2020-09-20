@@ -8,6 +8,8 @@ Review homework and evaluate yesterdays progress.
 ### [Example] Personal Data continued
 We learn about sorting and adding simple interaction.
 
+Download the finalised in-class live-coded example [here](Resources/PersonalDataExampleFinal.unitypackage).
+
 ### [Lecture] Project examples
 Examples of datavisualisation made by the author with Unity.
 
