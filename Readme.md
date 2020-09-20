@@ -91,7 +91,7 @@ Each day will start with a summary and review of homework from the previous day.
 * [Agenda](D02_sep_18/Readme.md).
 
 ### Day 03 (Monday Sep 21st)
-* [*Agenda* (to be uploaded)](D03_sep_21/Readme.md).
+* [*Agenda*](D03_sep_21/Readme.md).
 
 ### Day 04 (Tuesday Sep 22nd)
 * [*Agenda* (to be uploaded)](D04_sep_22/Readme.md).
