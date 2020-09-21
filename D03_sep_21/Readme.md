@@ -6,6 +6,8 @@
 ### [Discussion] Review
 Review homework and evaluate last weeks progress.
 
+Programming for the visually oriented slides [here](Resources/Programming_for_the_visually_oriented.pdf).
+
 
 ### [Example] GL Shapes (continued)
 We continue with more examples on transformations ... and colors!
