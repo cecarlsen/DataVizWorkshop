@@ -17,5 +17,5 @@ Examples can be downloaded [here](Resources/ProceduralMeshExamples1.unitypackage
 ### [Example] Procedrual Meshes
 Together we will live-code a few examples of how to create meshes procedurally. You will need [these](Resources/ProceduralMeshExampleAssets.unitypackage) assets.
 
-### Homework
-[Instructions](Homework04.md). Do before Thursday.
+> ### Homework
+> [Instructions](Homework04.md). Do before Thursday.

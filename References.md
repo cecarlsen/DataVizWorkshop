@@ -40,20 +40,22 @@
 
 
 ### General graphics topics
-- Marco Alamia - [Model View Projection transformsation](http://www.codinglabs.net/article_world_view_projection_matrix.aspx)
+- Jordan Santell - [Model View Projection](https://jsantell.com/model-view-projection/)
 
 
 ### Unity specific programming
 - [Tutorial videos] Unity - [Beginner Scripting](https://learn.unity.com/project/beginner-gameplay-scripting).
 - [Tutorial] Catlike Coding - [Mesh Basics](https://catlikecoding.com/unity/tutorials/mesh-basics/)
 - [Tutorial] Catlike Coding – [Rendering 1: Matricies](https://catlikecoding.com/unity/tutorials/rendering/part-1/)
+- [Tutorial] Febucci - [How to write shaders](https://www.febucci.com/2019/11/how-to-write-shaders-in-unity/)
 - [Tutorial] Catlike Coding – [Rendering 2: Shader Fundamentals](https://catlikecoding.com/unity/tutorials/rendering/part-2/) 
 - [Tutorial] Catlike Coding - [Rendering 19: Instacing](https://catlikecoding.com/unity/tutorials/rendering/part-19/) 
 - [Tutorials] Cheney Shen - [ComputeShaders](https://cheneyshen.com/category/all/gpu/compute-shader/)
 
 ### Shader programming
-- [ShaderToy](https://www.shadertoy.com). *Learn by example*.
-- [Inigo Quilez](https://iquilezles.org). *An endless source of inspirational code*.
+- [ShaderToy](https://www.shadertoy.com). GLSL *Learn by example*.
+- [Inigo Quilez](https://iquilezles.org). GLSL. *An endless source of inspirational code*.
+- How to [convert](https://www.adambielecki.com/2018/02/reference-for-converting-glsl-to-hlsl.html) from GLSL to HLSL.
 
 
 ### Alternaitve tools

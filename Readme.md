@@ -10,7 +10,7 @@ Taught by [Carl Emil Carlsen](http://cec.dk) at the [The Royal Danish Academy of
 
 <div style="page-break-after: always;"></div>
 
-![Splash](MarkdownAssets/Splash.png)
+![Splash](Assets/Splash.png)
 
 ## Introdution
 
@@ -31,7 +31,7 @@ Together, we will take the first stab at data visualisation on a theoretical and
 
 The workshop is divided into two parts. First, we will acquire the skills needed for designing and developing data visualisation projects. Each day will include a mix of lectures and experiments (live coding and micro-assignments). In the second part, each student will conceptualize and realize a small data visualisation project. Finally, the students will present their work and discuss their findings.
 
-![Timeplan](MarkdownAssets/Timeplan.png)
+![Timeplan](Assets/Timeplan.png)
 
 
 #### Topics
@@ -97,7 +97,7 @@ Each day will start with a summary and review of homework from the previous day.
 * [*Agenda*](D04_sep_22/Readme.md).
 
 ### Day 05 (Thursday Sep 24th)
-* [*Agenda* (to be uploaded)](D05_sep_24/Readme.md).
+* [*Agenda*](D05_sep_24/Readme.md).
 
 ### Day 06 (Friday Sept 25th)
 * Independent home work.
