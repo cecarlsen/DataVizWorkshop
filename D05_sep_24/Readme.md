@@ -21,8 +21,5 @@ Useful documentation here:
 - [Shader semantics](https://docs.unity3d.com/Manual/SL-ShaderSemantics.html). 
 - [Nvidia CG language](https://developer.download.nvidia.com/cg/index_stdlib.html). 
 
-### [Assignment] Shader Pattern
-[Instructions](Assignment_Shader_Pattern.md).
-
 ### Homework
 [Instructions](Homework05.md). Do before Monday.
