@@ -10,7 +10,7 @@ Together we will finish last live-coded example of how to create meshes procedur
 
 
 ### [Lecture] Graphics in Unity
-
+Slides [here](Resources/Graphics_In_Unity_Part1.pdf).
 
 ### [Examples] Shaders
 Together we will live-code a few examples of how to write simple shaders. You will need [these](Resources/ShaderExampleAssets.unitypackage) assets. [Here](Resources/ShaderTemplates.zip) are a couple of shader templates, and [here](How_To_Add_Script_Templates.md) is how to integrate them.
