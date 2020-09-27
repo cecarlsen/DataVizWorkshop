@@ -8,6 +8,8 @@ Taught by [Carl Emil Carlsen](http://cec.dk) at the [The Royal Danish Academy of
 **The content of this repo will be updated throughout the workshop.**
 
 
+
+
 <div style="page-break-after: always;"></div>
 
 ![Splash](Assets/Splash.png)
@@ -98,6 +100,7 @@ Each day will start with a summary and review of homework from the previous day.
 
 ### Day 05 (Thursday Sep 24th)
 * [*Agenda*](D05_sep_24/Readme.md).
+* [Personal Project brief](Assignment_Personal_Project.md)
 
 ### Day 06 (Friday Sept 25th)
 * Independent home work.
@@ -107,7 +110,7 @@ Each day will start with a summary and review of homework from the previous day.
 During the project days, students work on individual projects in a shared space. Each day will include a small lecture on a topic relevant to the projects. More advanced graphics topics will be introduced as needed.
 
 ### Day 07 (Monday Sep 28th)
-* [*Agenda* (to be uploaded)](D07_sep_28/Readme.md).
+* [*Agenda*](D07_sep_28/Readme.md).
 
 ### Day 08 (Tuesday Sep 29th)
 * [*Agenda* (to be uploaded)](D08_sep_29/Readme.md).

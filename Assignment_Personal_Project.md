@@ -19,4 +19,4 @@ You are to conceptualize and prototype a data visualisation project that somehow
 	- You need to have aquired an initial dataset at this point. It is ok if it is not complete, but enough to start parsing it into your program.
 - **Functional prototype** Tuesday October 6th (end of day).
 - **Presentation** Wednesday October 7th
-	- More information on this later.
+	- 11:00 in Auditory 3, together with students lead by Elias Stenalt, we will have a walk and talk discussion of each project. So set up a presentation of your project prior to this. For example; your laptop running your prototype, a video projection, a print, or what ever format suits your project.
