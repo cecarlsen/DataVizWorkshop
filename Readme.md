@@ -113,7 +113,7 @@ During the project days, students work on individual projects in a shared space.
 * [*Agenda*](D07_sep_28/Readme.md).
 
 ### Day 08 (Tuesday Sep 29th)
-* [*Agenda* (to be uploaded)](D08_sep_29/Readme.md).
+* Individual project work and mentoring.
 
 ### Day 09 (Thursday Oct 1st)
 * [*Agenda* (to be uploaded)](D09_oct_01/Readme.md).
