@@ -8,6 +8,9 @@
 ### [Examples] Shaders (Continued) 
 Together we will live-code a few examples of how to write simple shaders. You will need [these](../D05_sep_24/Resources/ShaderExampleAssets.unitypackage) assets. [Here](../D05_sep_24/Resources/ShaderTemplates.zip) are a couple of shader templates, and [here](../D05_sep_24/How_To_Add_Script_Templates.md) is how to integrate them.
 
+### [Lecture] Vectors
+Slides [here](Resources/Vectors.pdf).
+
 ### [Assignment] Shader Pattern
 [Instructions](Assignment_Shader_Pattern.md).
 
