@@ -5,10 +5,6 @@ Taught by [Carl Emil Carlsen](http://cec.dk) at the [The Royal Danish Academy of
 *September 17th – October 7th, 2020.*  
 *10 in-class days, 2 self-study days and 1 presentation day.*
 
-**The content of this repo will be updated throughout the workshop.**
-
-
-
 
 <div style="page-break-after: always;"></div>
 
@@ -116,17 +112,17 @@ During the project days, students work on individual projects in a shared space.
 * Individual project work and mentoring.
 
 ### Day 09 (Thursday Oct 1st)
-* [*Agenda* (to be uploaded)](D09_oct_01/Readme.md).
+* In-class project work.
 
 ### Day 10 (Friday Oct 2nd)
 * Independent project work.
 
 ### Day 11 (Monday Oct 5th)
 * Deadline: minimal viable product.
-* In-class project development work.
+* In-class project work.
 
 ### Day 12 (Tuesday Oct 6th)
-* In-class project development work.
+* In-class project work.
 
 ### Day 13 (Wednesday Oct 7th)
 * *Note: special time for this day 11:00-14:30.*
